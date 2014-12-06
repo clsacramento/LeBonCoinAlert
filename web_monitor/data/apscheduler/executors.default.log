@@ -1,0 +1,38 @@
+2014-12-06 23:04:34,375:INFO:apscheduler.executors.default:Running job "job (trigger: interval[0:00:10], next run at: 2014-12-06 23:04:44 CET)" (scheduled at 2014-12-06 23:04:34.370234+01:00)
+2014-12-06 23:04:34,376:INFO:apscheduler.executors.default:Job "job (trigger: interval[0:00:10], next run at: 2014-12-06 23:04:44 CET)" executed successfully
+2014-12-06 23:04:44,374:INFO:apscheduler.executors.default:Running job "job (trigger: interval[0:00:10], next run at: 2014-12-06 23:04:44 CET)" (scheduled at 2014-12-06 23:04:44.370234+01:00)
+2014-12-06 23:04:44,375:INFO:apscheduler.executors.default:Job "job (trigger: interval[0:00:10], next run at: 2014-12-06 23:04:54 CET)" executed successfully
+2014-12-06 23:04:54,383:INFO:apscheduler.executors.default:Running job "job (trigger: interval[0:00:10], next run at: 2014-12-06 23:04:54 CET)" (scheduled at 2014-12-06 23:04:54.370234+01:00)
+2014-12-06 23:04:54,384:INFO:apscheduler.executors.default:Job "job (trigger: interval[0:00:10], next run at: 2014-12-06 23:05:04 CET)" executed successfully
+2014-12-06 23:13:12,853:INFO:apscheduler.executors.default:Running job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:14:12 CET)" (scheduled at 2014-12-06 23:13:12.838688+01:00)
+2014-12-06 23:13:14,307:INFO:apscheduler.executors.default:Job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:14:12 CET)" executed successfully
+2014-12-06 23:14:12,841:INFO:apscheduler.executors.default:Running job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:14:12 CET)" (scheduled at 2014-12-06 23:14:12.838688+01:00)
+2014-12-06 23:14:14,396:INFO:apscheduler.executors.default:Job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:15:12 CET)" executed successfully
+2014-12-06 23:15:12,845:INFO:apscheduler.executors.default:Running job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:15:12 CET)" (scheduled at 2014-12-06 23:15:12.838688+01:00)
+2014-12-06 23:15:14,128:INFO:apscheduler.executors.default:Job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:16:12 CET)" executed successfully
+2014-12-06 23:16:12,851:INFO:apscheduler.executors.default:Running job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:17:12 CET)" (scheduled at 2014-12-06 23:16:12.838688+01:00)
+2014-12-06 23:16:16,691:INFO:apscheduler.executors.default:Job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:17:12 CET)" executed successfully
+2014-12-06 23:17:12,847:INFO:apscheduler.executors.default:Running job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:18:12 CET)" (scheduled at 2014-12-06 23:17:12.838688+01:00)
+2014-12-06 23:17:14,727:INFO:apscheduler.executors.default:Job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:18:12 CET)" executed successfully
+2014-12-06 23:18:12,843:INFO:apscheduler.executors.default:Running job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:18:12 CET)" (scheduled at 2014-12-06 23:18:12.838688+01:00)
+2014-12-06 23:18:14,598:INFO:apscheduler.executors.default:Job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:19:12 CET)" executed successfully
+2014-12-06 23:19:12,842:INFO:apscheduler.executors.default:Running job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:19:12 CET)" (scheduled at 2014-12-06 23:19:12.838688+01:00)
+2014-12-06 23:19:15,014:INFO:apscheduler.executors.default:Job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:20:12 CET)" executed successfully
+2014-12-06 23:20:12,846:INFO:apscheduler.executors.default:Running job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:21:12 CET)" (scheduled at 2014-12-06 23:20:12.838688+01:00)
+2014-12-06 23:20:14,541:INFO:apscheduler.executors.default:Job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:21:12 CET)" executed successfully
+2014-12-06 23:21:12,846:INFO:apscheduler.executors.default:Running job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:22:12 CET)" (scheduled at 2014-12-06 23:21:12.838688+01:00)
+2014-12-06 23:21:14,118:INFO:apscheduler.executors.default:Job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:22:12 CET)" executed successfully
+2014-12-06 23:22:41,736:INFO:apscheduler.executors.default:Running job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:23:41 CET)" (scheduled at 2014-12-06 23:22:41.735499+01:00)
+2014-12-06 23:22:44,925:INFO:apscheduler.executors.default:Job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:23:41 CET)" executed successfully
+2014-12-06 23:23:41,737:INFO:apscheduler.executors.default:Running job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:23:41 CET)" (scheduled at 2014-12-06 23:23:41.735499+01:00)
+2014-12-06 23:23:43,408:INFO:apscheduler.executors.default:Job "start_monitor (trigger: interval[0:01:00], next run at: 2014-12-06 23:24:41 CET)" executed successfully
+2014-12-06 23:24:55,505:INFO:apscheduler.executors.default:Running job "start_monitor (trigger: interval[0:00:06], next run at: 2014-12-06 23:25:01 CET)" (scheduled at 2014-12-06 23:24:55.502973+01:00)
+2014-12-06 23:24:57,178:INFO:apscheduler.executors.default:Job "start_monitor (trigger: interval[0:00:06], next run at: 2014-12-06 23:25:01 CET)" executed successfully
+2014-12-06 23:25:01,505:INFO:apscheduler.executors.default:Running job "start_monitor (trigger: interval[0:00:06], next run at: 2014-12-06 23:25:07 CET)" (scheduled at 2014-12-06 23:25:01.502973+01:00)
+2014-12-06 23:25:02,870:INFO:apscheduler.executors.default:Job "start_monitor (trigger: interval[0:00:06], next run at: 2014-12-06 23:25:07 CET)" executed successfully
+2014-12-06 23:25:07,505:INFO:apscheduler.executors.default:Running job "start_monitor (trigger: interval[0:00:06], next run at: 2014-12-06 23:25:07 CET)" (scheduled at 2014-12-06 23:25:07.502973+01:00)
+2014-12-06 23:25:08,992:INFO:apscheduler.executors.default:Job "start_monitor (trigger: interval[0:00:06], next run at: 2014-12-06 23:25:13 CET)" executed successfully
+2014-12-06 23:25:13,506:INFO:apscheduler.executors.default:Running job "start_monitor (trigger: interval[0:00:06], next run at: 2014-12-06 23:25:13 CET)" (scheduled at 2014-12-06 23:25:13.502973+01:00)
+2014-12-06 23:25:15,253:INFO:apscheduler.executors.default:Job "start_monitor (trigger: interval[0:00:06], next run at: 2014-12-06 23:25:19 CET)" executed successfully
+2014-12-06 23:25:19,505:INFO:apscheduler.executors.default:Running job "start_monitor (trigger: interval[0:00:06], next run at: 2014-12-06 23:25:19 CET)" (scheduled at 2014-12-06 23:25:19.502973+01:00)
+2014-12-06 23:25:20,899:INFO:apscheduler.executors.default:Job "start_monitor (trigger: interval[0:00:06], next run at: 2014-12-06 23:25:25 CET)" executed successfully

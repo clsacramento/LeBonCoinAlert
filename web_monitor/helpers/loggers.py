@@ -8,6 +8,9 @@ class AddLogger:
 	def __init__(self,handler_name,alert_name,opts = config.logging_options):
 		# création de l'objet logger qui va nous servir à écrire dans les logs
 	        self.logger = logging.getLogger(handler_name+"."+alert_name)
+
+		if(len(self.logger.handlers)>0):
+			return
 	
 		# création d'un formateur qui va ajouter le temps, le niveau
 		# de chaque message quand on écrira un message dans le log
@@ -41,4 +44,3 @@ class AddLogger:
 		self.stream_handler.setFormatter(formatter)
 		self.logger.addHandler(self.stream_handler)
 
-		self.logger.debug("start logging")	

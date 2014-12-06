@@ -1,0 +1,126 @@
+2014-12-06 22:57:56,811:DEBUG:apscheduler.scheduler:start logging
+2014-12-06 22:57:56,949:INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2014-12-06 22:57:56,950:INFO:apscheduler.scheduler:Added job "job" to job store "default"
+2014-12-06 22:57:56,950:INFO:apscheduler.scheduler:Scheduler started
+2014-12-06 22:57:56,951:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 22:57:56,951:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 22:58:06.949494+01:00 (in 9.998205 seconds)
+2014-12-06 22:58:06,950:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 22:58:06,951:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 22:58:16.949494+01:00 (in 9.999047 seconds)
+2014-12-06 22:58:16,952:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 22:58:16,954:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 22:58:26.949494+01:00 (in 9.996330 seconds)
+2014-12-06 22:58:26,951:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 22:58:26,960:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 22:58:36.949494+01:00 (in 9.989439 seconds)
+2014-12-06 22:58:36,952:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 22:58:36,954:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 22:58:46.949494+01:00 (in 9.996340 seconds)
+2014-12-06 22:58:46,951:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 22:58:46,953:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 22:58:56.949494+01:00 (in 9.997382 seconds)
+2014-12-06 22:58:56,955:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 22:58:56,956:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 22:59:06.949494+01:00 (in 9.993371 seconds)
+2014-12-06 23:00:24,411:DEBUG:apscheduler.scheduler:start logging
+2014-12-06 23:00:24,535:INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2014-12-06 23:00:24,535:INFO:apscheduler.scheduler:Added job "job" to job store "default"
+2014-12-06 23:00:24,536:INFO:apscheduler.scheduler:Scheduler started
+2014-12-06 23:00:24,536:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:00:24,536:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:00:34.534639+01:00 (in 9.998079 seconds)
+2014-12-06 23:00:34,540:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:00:34,541:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:00:44.534639+01:00 (in 9.994000 seconds)
+2014-12-06 23:00:44,538:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:00:44,539:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:00:54.534639+01:00 (in 9.995534 seconds)
+2014-12-06 23:00:54,537:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:00:54,538:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:01:04.534639+01:00 (in 9.996783 seconds)
+2014-12-06 23:01:04,538:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:01:04,540:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:01:14.534639+01:00 (in 9.995446 seconds)
+2014-12-06 23:02:22,716:DEBUG:apscheduler.scheduler:start logging
+2014-12-06 23:02:22,763:INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2014-12-06 23:02:22,763:INFO:apscheduler.scheduler:Added job "job" to job store "default"
+2014-12-06 23:02:22,763:INFO:apscheduler.scheduler:Scheduler started
+2014-12-06 23:02:22,763:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:02:22,763:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:02:32.762837+01:00 (in 9.998934 seconds)
+2014-12-06 23:02:32,766:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:02:32,767:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:02:42.762837+01:00 (in 9.996235 seconds)
+2014-12-06 23:02:42,769:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:02:42,770:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:02:52.762837+01:00 (in 9.993312 seconds)
+2014-12-06 23:02:52,765:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:02:52,775:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:03:02.762837+01:00 (in 9.988644 seconds)
+2014-12-06 23:03:02,767:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:03:02,768:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:03:12.762837+01:00 (in 9.994963 seconds)
+2014-12-06 23:03:12,767:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:03:12,768:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:03:22.762837+01:00 (in 9.994928 seconds)
+2014-12-06 23:03:22,765:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:03:22,774:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:03:32.762837+01:00 (in 9.989608 seconds)
+2014-12-06 23:03:32,769:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:03:32,770:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:03:42.762837+01:00 (in 9.993073 seconds)
+2014-12-06 23:03:42,764:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:03:42,765:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:03:52.762837+01:00 (in 9.998579 seconds)
+2014-12-06 23:03:52,767:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:03:52,768:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:04:02.762837+01:00 (in 9.995336 seconds)
+2014-12-06 23:04:02,764:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:04:02,765:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:04:12.762837+01:00 (in 9.997895 seconds)
+2014-12-06 23:04:12,768:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:04:12,769:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:04:22.762837+01:00 (in 9.993929 seconds)
+2014-12-06 23:04:24,370:INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2014-12-06 23:04:24,371:INFO:apscheduler.scheduler:Added job "job" to job store "default"
+2014-12-06 23:04:24,371:INFO:apscheduler.scheduler:Scheduler started
+2014-12-06 23:04:24,371:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:04:24,372:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:04:34.370234+01:00 (in 9.998224 seconds)
+2014-12-06 23:04:34,374:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:04:34,375:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:04:44.370234+01:00 (in 9.995517 seconds)
+2014-12-06 23:04:44,373:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:04:44,374:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:04:54.370234+01:00 (in 9.996521 seconds)
+2014-12-06 23:04:54,374:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:04:54,384:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:05:04.370234+01:00 (in 9.987585 seconds)
+2014-12-06 23:10:44,300:INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2014-12-06 23:10:44,301:INFO:apscheduler.scheduler:Added job "start_monitor" to job store "default"
+2014-12-06 23:10:44,301:INFO:apscheduler.scheduler:Scheduler started
+2014-12-06 23:12:12,838:INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2014-12-06 23:12:12,839:INFO:apscheduler.scheduler:Added job "start_monitor" to job store "default"
+2014-12-06 23:12:12,839:INFO:apscheduler.scheduler:Scheduler started
+2014-12-06 23:12:12,839:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:12:12,839:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:13:12.838688+01:00 (in 59.998894 seconds)
+2014-12-06 23:13:12,844:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:13:12,853:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:14:12.838688+01:00 (in 59.986056 seconds)
+2014-12-06 23:14:12,840:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:14:12,842:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:15:12.838688+01:00 (in 59.997572 seconds)
+2014-12-06 23:15:12,844:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:15:12,846:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:16:12.838688+01:00 (in 59.993680 seconds)
+2014-12-06 23:16:12,841:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:16:12,851:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:17:12.838688+01:00 (in 59.989013 seconds)
+2014-12-06 23:17:12,846:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:17:12,848:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:18:12.838688+01:00 (in 59.991606 seconds)
+2014-12-06 23:18:12,841:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:18:12,843:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:19:12.838688+01:00 (in 59.996279 seconds)
+2014-12-06 23:19:12,841:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:19:12,843:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:20:12.838688+01:00 (in 59.996694 seconds)
+2014-12-06 23:20:12,845:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:20:12,846:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:21:12.838688+01:00 (in 59.992646 seconds)
+2014-12-06 23:21:12,845:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:21:12,846:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:22:12.838688+01:00 (in 59.992865 seconds)
+2014-12-06 23:21:41,736:INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2014-12-06 23:21:41,736:INFO:apscheduler.scheduler:Added job "start_monitor" to job store "default"
+2014-12-06 23:21:41,737:INFO:apscheduler.scheduler:Scheduler started
+2014-12-06 23:21:41,737:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:21:41,737:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:22:41.735499+01:00 (in 59.997926 seconds)
+2014-12-06 23:22:41,736:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:22:41,737:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:23:41.735499+01:00 (in 59.999263 seconds)
+2014-12-06 23:23:41,737:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:23:41,738:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:24:41.735499+01:00 (in 59.998118 seconds)
+2014-12-06 23:24:49,503:INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2014-12-06 23:24:49,503:INFO:apscheduler.scheduler:Added job "start_monitor" to job store "default"
+2014-12-06 23:24:49,503:INFO:apscheduler.scheduler:Scheduler started
+2014-12-06 23:24:49,504:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:24:49,504:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:24:55.502973+01:00 (in 5.998778 seconds)
+2014-12-06 23:24:55,504:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:24:55,505:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:25:01.502973+01:00 (in 5.997868 seconds)
+2014-12-06 23:25:01,504:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:25:01,505:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:25:07.502973+01:00 (in 5.997849 seconds)
+2014-12-06 23:25:07,504:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:25:07,506:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:25:13.502973+01:00 (in 5.997965 seconds)
+2014-12-06 23:25:13,506:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:25:13,507:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:25:19.502973+01:00 (in 5.996482 seconds)
+2014-12-06 23:25:19,504:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:25:19,506:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:25:25.502973+01:00 (in 5.997726 seconds)
+2014-12-06 23:26:33,241:INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2014-12-06 23:26:33,241:INFO:apscheduler.scheduler:Added job "start_monitor" to job store "default"
+2014-12-06 23:26:33,241:INFO:apscheduler.scheduler:Scheduler started
+2014-12-06 23:26:33,242:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-06 23:26:33,242:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-06 23:36:33.240952+01:00 (in 599.998850 seconds)

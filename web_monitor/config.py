@@ -1,4 +1,4 @@
-import os,logging
+import os,logging,copy
 
 data_dir = os.path.join(os.curdir,'data')
 
@@ -12,5 +12,8 @@ logging_options = {
 	"extension" : ".log",
 }
 
+webmonitor_logging_options = copy.copy(logging_options)
+webmonitor_logging_options["stdout_level"] = logging.INFO
+webmonitor_logging_options["file_level"] = logging.DEBUG
 
-
+scheduler_interval = 600
