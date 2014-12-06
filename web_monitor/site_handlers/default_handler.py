@@ -1,7 +1,9 @@
 from helpers.http_request import HttpRequest
-import os, difflib
+import os, difflib,logging
 
 class DefaultHandler:
+	handler_name = "default_handler"
+
 	ADDED_SIGN = "+"
 	DELETED_SIGN = "-"
 
@@ -16,6 +18,8 @@ class DefaultHandler:
 		self.method = method
 		self.last_filename = os.path.join(path,name)
 		self.new_filename = self.last_filename+"_"
+
+		self.logger = logging.getLogger(self.handler_name+"."+name)
 	
 	def run(self):
 		if os.path.isfile(self.last_filename):
@@ -47,11 +51,12 @@ class DefaultHandler:
 				lines.append(line.replace(diff_sign+" ",""))
 		return lines
 
-	def log_message(self):
+	def log(self):
 		if self.found_changes():
-			return "Changes found: "+str(len(self.added_lines))+" line(s) added and "+str(len(self.deleted_lines))+" lines(s) deleted."
+			self.logger.info("Changes found: "+str(len(self.added_lines))+" line(s) added and "+str(len(self.deleted_lines))+" lines(s) deleted.")
 		else:
-			return "No changes found."
+			self.logger.info("No changes found.")
+
 
 	def notification_items(self):
 		return { "found_changes" : self.found_changes(),

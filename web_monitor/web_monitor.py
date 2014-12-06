@@ -1,8 +1,15 @@
 # -- coding: utf-8 --
 import alerts,config
-import os,importlib
+from helpers.loggers import AddLogger
+import os,importlib,logging
 
 site_handlers = "site_handlers."
+
+logger = logging.getLogger()
+# on met le niveau du logger à DEBUG, comme ça il écrit tout
+logger.setLevel(logging.DEBUG)
+
+rootlogger = AddLogger("web_monitor","main").logger
 
 def get_handler_obj(module_name,class_name,alert_name,url):
 	class_ = None
@@ -14,11 +21,13 @@ def get_handler_obj(module_name,class_name,alert_name,url):
 	try:
 		module_ = importlib.import_module(site_handlers+module_name)
 		try:
+			logger = AddLogger(module_name,alert_name).logger
 			class_ = getattr(module_, class_name)(path,alert_name,url)
+			class_.logger = logger
         	except AttributeError:
-			print('Class does not exist: '+class_name)
+			rootlogger.error('Class does not exist: '+class_name)
 	except ImportError:
-		print('Module does not exist'+module_name)
+		rootlogger.error('Module does not exist: '+module_name)
 	return class_ 
 
 if __name__ == "__main__":
@@ -26,17 +35,17 @@ if __name__ == "__main__":
 	#dfthdlr.run()
 	#print(dfthdlr.log_message())
 
-
+	rootlogger.debug("read alerts")
 	for name,item in alerts.items.iteritems():
-		print name
-		
 		site_handler = item["site_handler"]
 		(module_name,class_name) = site_handler.split(".")
 
 		url = item["url"]
 
 		handler_obj = get_handler_obj(module_name,class_name,name,url)
-		
+
+		rootlogger.debug("Alert name=%s,handler=%s,url=%s",name,module_name,url)	
 		handler_obj.run()
 
-		print(handler_obj.log_message())
+		handler_obj.log()
+

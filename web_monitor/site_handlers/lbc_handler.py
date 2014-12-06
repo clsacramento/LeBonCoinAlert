@@ -6,6 +6,8 @@ import bs4 as BeautifulSoup
 import os,re
 
 class LeBonCoinHandler(DefaultHandler):
+	handler_name = "lbc_handler"
+
 	def __init__(self,path, name, url, args = "", method='get'):
 		DefaultHandler.__init__(self,path,name,url,args,method)
 
@@ -41,13 +43,15 @@ class LeBonCoinHandler(DefaultHandler):
 	def new_ads(self):
 		return len(self.added_lines)>0	
 
-	def log_message(self):
+	def log(self):
 		if self.new_ads():
 			#TODO:
 			#Fix: might advertise an old ad as new if a recent one is deleted.
-                        return str(len(self.added_lines))+" new ad(s)."
+                	print str(len(self.added_lines))+" new ad(s)."
+		        self.logger.info(str(len(self.added_lines))+" new ad(s).")
+			self.logger.debug(str(self.added_lines))
                 else:
-                        return "Nothing new."
+			self.logger.debug("Nothing new.")
 
 	def notification_items(self):
                 return { "found_changes" : self.found_changes(),
