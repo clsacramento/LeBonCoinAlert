@@ -1,1 +1,161 @@
 
+2014-12-06 23:36:34,983:INFO:lbc_handler.lbc-tout:1 new ad(s).
+2014-12-06 23:36:34,984:DEBUG:lbc_handler.lbc-tout:[" Aujourd'hui 23:06   3 Peugeot 206 trendy 1.4 ess 75 ch Le Bourg-d'Oisans / Isre 5 800 EUR http://www.leboncoin.fr/voitures/707710079.htm?ca=22_s\n"]
+2014-12-06 23:46:35,206:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-06 23:56:35,322:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 00:06:36,252:INFO:lbc_handler.lbc-tout:35 new ad(s).
+2014-12-07 00:06:36,252:DEBUG:lbc_handler.lbc-tout:[" Hier 23:06   3 Peugeot 206 trendy 1.4 ess 75 ch Le Bourg-d'Oisans / Isre 5 800 EUR http://www.leboncoin.fr/voitures/707710079.htm?ca=22_s\n", ' Hier 22:58   3 207 cc comme neuve 71000km 5500 euros 1 ere main Montlimar / Drme 5 500 EUR http://www.leboncoin.fr/voitures/742721443.htm?ca=22_s\n', ' Hier 22:11   2 Toyota Yaris II VVTI 69 5P Cranves-Sales / Haute-Savoie 6 000 EUR http://www.leboncoin.fr/voitures/742710421.htm?ca=22_s\n', ' Hier 21:48   3 Fiat 500 lounge Lyon 2eme / Rhne 5 500 EUR http://www.leboncoin.fr/voitures/742703887.htm?ca=22_s\n', ' Hier 21:09   3 Peugeot 207 Pack Sport Premium Pont-de-Vaux / Ain 6 000 EUR http://www.leboncoin.fr/voitures/742689345.htm?ca=22_s\n', ' Hier 20:52   2 206 urban 1.1l Saint-Paul-ls-Romans / Drme 5 400 EUR http://www.leboncoin.fr/voitures/742684297.htm?ca=22_s\n', ' Hier 20:23   3 Seat Ibiza SC 1.4L STYLE 85CH Champ-sur-Drac / Isre 6 500 EUR http://www.leboncoin.fr/voitures/742676662.htm?ca=22_s\n', ' Hier 19:41   3 PEUGEOT 207 SW 1.6 VTI 16v Prenium Grenoble / Isre 6 400 EUR http://www.leboncoin.fr/voitures/742659401.htm?ca=22_s\n', ' Hier 19:36   5 Peugeot 1007 trendy 1.4e (pro) Neuville-sur-Sane / Rhne 5 900 EUR http://www.leboncoin.fr/voitures/741260609.htm?ca=22_s\n', ' Hier 19:36   5 FIAT PANDA DYNAMIC 1.2e (pro) Neuville-sur-Sane / Rhne 5 900 EUR http://www.leboncoin.fr/voitures/739569058.htm?ca=22_s\n', ' Hier 19:12   3 Picanto 1.0 Best 2009 Villeurbanne / Rhne 4 800 EUR http://www.leboncoin.fr/voitures/742647790.htm?ca=22_s\n', ' Hier 19:05   3 Lancia ypsilon 4ch essence 2010 Cognin / Savoie 5 800 EUR http://www.leboncoin.fr/voitures/720449220.htm?ca=22_s\n', " Hier 19:01   3 2061.1 5p Le Bourg-d'Oisans / Isre 5 500 EUR http://www.leboncoin.fr/voitures/742641851.htm?ca=22_s\n", ' Hier 18:55   3 Fiat 500 Saint-Priest / Rhne 6 500 EUR http://www.leboncoin.fr/voitures/742638865.htm?ca=22_s\n', ' Hier 18:03   6 Clio campus Chtel / Haute-Savoie 4 200 EUR http://www.leboncoin.fr/voitures/721870984.htm?ca=22_s\n', " Hier 17:34   3 Citroen C1 1.0L 5 portes -1ere main - TBE Saint-Pierre-d'Allevard / Isre 4 000 EUR http://www.leboncoin.fr/voitures/742596932.htm?ca=22_s\n", ' Hier 17:07   3 Toyota aygo 5 portes boite auto Toussieu / Rhne 5 300 EUR http://www.leboncoin.fr/voitures/742583639.htm?ca=22_s\n', ' Hier 17:05   3 C1 Marignier / Haute-Savoie 4 500 EUR http://www.leboncoin.fr/voitures/742582709.htm?ca=22_s\n', ' Hier 16:49   5 Chevrolet matiz essence 4 portes petite citadine (pro) Saint-Jean-de-Bournay / Isre 3 500 EUR http://www.leboncoin.fr/voitures/718126045.htm?ca=22_s\n', ' Hier 16:49   5 Opel corsa 1.0 111 65 ch 3 portes (pro) Saint-Jean-de-Bournay / Isre 6 500 EUR http://www.leboncoin.fr/voitures/739332906.htm?ca=22_s\n', ' Hier 16:19   2 Peugeot 107 trandy Annecy-le-Vieux / Haute-Savoie 4 900 EUR http://www.leboncoin.fr/voitures/742558879.htm?ca=22_s\n', ' Hier 14:40   3 Twingo 2 essence+GPL Montlimar / Drme 5 500 EUR http://www.leboncoin.fr/voitures/742509949.htm?ca=22_s\n', ' Hier 14:23   3 KIA Picanto 1.0 BEST 5p Annemasse / Haute-Savoie 4 500 EUR http://www.leboncoin.fr/voitures/714073327.htm?ca=22_s\n', ' Hier 13:56   3 Toyota yaris 2 Chambry / Savoie 6 000 EUR http://www.leboncoin.fr/voitures/734837831.htm?ca=22_s\n', ' Hier 13:12   3 Renault modus 1.6 113 dynamique bva essence Lyon 1er / Rhne 5 500 EUR http://www.leboncoin.fr/voitures/742469776.htm?ca=22_s\n', ' Hier 13:10   5 PEUGEOT 308 1.6 VTi 120cv Confort Pack 5 Portes (pro) Vnissieux / Rhne 5 800 EUR http://www.leboncoin.fr/voitures/736000518.htm?ca=22_s\n', ' Hier 13:08   5 Renault twingo 1.2 16v lev autentique (pro) Saint-Priest / Rhne 5 490 EUR http://www.leboncoin.fr/voitures/670549921.htm?ca=22_s\n', ' Hier 12:22   5 RENAULT TWINGO II 1.2 LEV HELIOS 76CH 1ere main (pro) Saint-Priest-en-Jarez / Loire 5 450 EUR http://www.leboncoin.fr/voitures/737380935.htm?ca=22_s\n', ' Hier 12:15   7 Renault Twingo Art collection Govreissiat / Ain 5 250 EUR http://www.leboncoin.fr/voitures/742446225.htm?ca=22_s\n', ' Hier 12:07   5 Chevrolet aveo (pro) Villeurbanne / Rhne 5 500 EUR http://www.leboncoin.fr/voitures/741237387.htm?ca=22_s\n', ' Hier 12:06   3 Renault modus 1.6 113 dynamique bva essence Beynost / Ain 5 500 EUR http://www.leboncoin.fr/voitures/742441210.htm?ca=22_s\n', ' Hier 11:34   2 CITROEN C1 ATTRACTION 4 CV 5 PORTES 1ere MAIN Villefranche-sur-Sane / Rhne 5 200 EUR http://www.leboncoin.fr/voitures/742423961.htm?ca=22_s\n', ' Hier 11:16   207 peugeot 1.6vti Annecy-le-Vieux / Haute-Savoie 6 000 EUR http://www.leboncoin.fr/voitures/742398488.htm?ca=22_s\n', ' Hier 11:13   5 Twingo 2 helios 1.2 16v 60 cv garantie 1 an (pro) Voreppe / Isre 5 999 EUR http://www.leboncoin.fr/voitures/742394309.htm?ca=22_s\n', ' Hier 11:07   5 Renault twingo initial (pro) Villeurbanne / Rhne 6 500 EUR http://www.leboncoin.fr/voitures/741638229.htm?ca=22_s\n']
+2014-12-07 00:16:34,893:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 00:26:34,699:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 00:36:34,863:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 00:46:34,945:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 00:56:35,470:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 01:06:34,530:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 01:16:35,544:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 01:26:35,365:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 01:36:35,733:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 01:46:35,412:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 01:56:34,399:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 02:06:36,332:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 02:16:34,495:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 02:26:36,069:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 02:36:35,903:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 02:46:34,769:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 02:56:35,019:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 03:06:35,209:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 03:16:34,965:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 03:26:35,018:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 03:36:34,870:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 03:46:34,668:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 03:56:34,552:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 04:06:35,017:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 04:16:34,708:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 04:26:35,601:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 04:36:34,970:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 04:46:34,646:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 04:56:35,193:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 05:06:34,375:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 05:16:36,081:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 05:26:34,821:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 05:36:34,599:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 05:46:35,176:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 05:56:35,110:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 06:06:34,755:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 06:16:34,749:INFO:lbc_handler.lbc-tout:1 new ad(s).
+2014-12-07 06:16:34,749:DEBUG:lbc_handler.lbc-tout:[" Aujourd'hui 00:15   3 Chevrolet aveo 1er main 41000 km Saint-Priest / Rhne 5 000 EUR http://www.leboncoin.fr/voitures/713589553.htm?ca=22_s\n"]
+2014-12-07 06:26:34,607:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 06:36:35,282:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 06:46:36,039:INFO:lbc_handler.lbc-tout:1 new ad(s).
+2014-12-07 06:46:36,040:DEBUG:lbc_handler.lbc-tout:[' Hier 17:51   10 Peugeot 107 1.0 12v Urban 5p (pro) Ornex / Ain 5 100 EUR http://www.leboncoin.fr/voitures/742746382.htm?ca=22_s\n']
+2014-12-07 06:56:34,605:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 07:06:35,477:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 07:16:35,593:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 07:26:34,675:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 07:36:34,850:INFO:lbc_handler.lbc-tout:2 new ad(s).
+2014-12-07 07:36:34,850:DEBUG:lbc_handler.lbc-tout:[" Aujourd'hui 07:20   3 CITROEN C2 Furio noir Grenoble / Isre 5 300 EUR http://www.leboncoin.fr/voitures/742753297.htm?ca=22_s\n", ' Hier 23:00   7 Fiat Punto Evo 1.2 8v Dynamic 3p (pro) Voiron / Isre 5 990 EUR http://www.leboncoin.fr/voitures/742751567.htm?ca=22_s\n']
+2014-12-07 07:46:35,884:INFO:lbc_handler.lbc-tout:1 new ad(s).
+2014-12-07 07:46:35,885:DEBUG:lbc_handler.lbc-tout:[" Aujourd'hui 07:21   3 Twingo 2 phase 2 privilege accidente CG 3990e Grenoble / Isre 3 990 EUR http://www.leboncoin.fr/voitures/742753750.htm?ca=22_s\n"]
+2014-12-07 07:56:34,460:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 08:06:34,742:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 08:16:35,364:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 08:26:35,390:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 08:36:34,622:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 08:46:34,525:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 08:56:34,675:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 09:06:35,059:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 09:16:34,995:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 09:26:34,680:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 09:36:35,184:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 09:46:35,113:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 09:56:35,319:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 10:06:39,998:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 10:16:34,826:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 10:26:34,934:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 10:36:35,824:INFO:lbc_handler.lbc-tout:1 new ad(s).
+2014-12-07 10:36:35,825:DEBUG:lbc_handler.lbc-tout:[" Aujourd'hui 10:17   3 C 1 automatique 3 p clim 8700Km Chambry / Savoie 4 700 EUR http://www.leboncoin.fr/voitures/742786666.htm?ca=22_s\n"]
+2014-12-07 10:46:35,273:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 10:56:36,103:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:06:34,819:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:12:15,637:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:13:16,307:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:14:15,929:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:15:15,796:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:16:16,362:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:17:15,171:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:18:16,046:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:19:15,233:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:20:15,571:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:21:15,551:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:22:15,466:INFO:lbc_handler.lbc-tout:1 new ad(s).
+2014-12-07 11:22:15,467:DEBUG:lbc_handler.lbc-tout:[" Aujourd'hui 11:03   5 Renault twingo initial (pro) Villeurbanne / Rhne 6 500 EUR http://www.leboncoin.fr/voitures/741638229.htm?ca=22_s\n"]
+2014-12-07 11:23:15,415:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:24:15,425:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:27:17,689:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:28:17,299:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:29:18,621:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:30:18,732:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:32:09,800:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:35:35,421:INFO:lbc_handler.lbc-tout:2 new ad(s).
+2014-12-07 11:35:35,421:DEBUG:lbc_handler.lbc-tout:[" Aujourd'hui 11:20   5 C3 1,1 attraction 42mkms an10 tbeg 04CH 1ere main (pro) Bourg-en-Bresse / Ain 6 490 EUR http://www.leboncoin.fr/voitures/699954863.htm?ca=22_s\n", " Aujourd'hui 11:19   5 AVEO 1,2 16V LS 55mkms an09 Tbeg 1ere main 3ptes (pro) Bourg-en-Bresse / Ain 4 990 EUR http://www.leboncoin.fr/voitures/699925504.htm?ca=22_s\n"]
+2014-12-07 11:39:27,071:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:41:06,418:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:44:11,254:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:45:38,406:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:47:25,471:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:48:37,247:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:49:46,958:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:50:53,141:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:51:12,835:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:52:28,479:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:53:46,728:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:55:04,862:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:55:22,254:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:59:19,348:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:59:38,712:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 11:59:58,299:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:00:18,217:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:00:38,415:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:00:58,438:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:01:18,455:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:01:38,244:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:02:00,279:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:02:18,426:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:02:39,509:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:03:00,288:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:03:18,399:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:03:38,214:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:03:59,325:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:04:18,335:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:04:38,436:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:04:58,429:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:05:18,613:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:05:38,682:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:05:58,133:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:06:18,112:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:06:38,470:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:06:58,637:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:07:18,181:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:07:38,490:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:07:58,435:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:08:18,262:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:08:38,670:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:08:58,501:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:09:18,415:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:09:38,812:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:09:58,671:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:10:19,005:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:10:38,699:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:10:58,499:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:12:17,156:INFO:lbc_handler.lbc-tout:1 new ad(s).
+2014-12-07 12:12:17,156:DEBUG:lbc_handler.lbc-tout:[" Aujourd'hui 11:53   5 Chevrolet aveo (pro) Villeurbanne / Rhne 5 500 EUR http://www.leboncoin.fr/voitures/741237387.htm?ca=22_s\n"]
+2014-12-07 12:12:35,084:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:14:03,375:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:14:22,178:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:17:55,302:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:18:14,358:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:18:34,695:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:24:34,190:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:26:06,780:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:26:26,599:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:27:32,865:DEBUG:lbc_handler.lbc-tout:Nothing new.
+2014-12-07 12:29:30,298:DEBUG:lbc_handler.lbc-tout:Nothing new.

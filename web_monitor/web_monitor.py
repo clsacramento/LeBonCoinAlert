@@ -1,5 +1,5 @@
 # -- coding: utf-8 --
-import alerts,config
+import alerts,notifications,notifier,config
 from helpers.loggers import AddLogger
 import os,importlib,logging
 from apscheduler.schedulers.blocking import BlockingScheduler
@@ -13,6 +13,7 @@ logger.setLevel(logging.DEBUG)
 rootlogger = AddLogger("web_monitor","main",config.webmonitor_logging_options).logger
 apslogger = AddLogger("apscheduler","scheduler",config.webmonitor_logging_options).logger
 exelogger = AddLogger("apscheduler","executors.default",config.webmonitor_logging_options).logger
+apilogger = AddLogger("googleapiclient","discovery",config.webmonitor_logging_options).logger
 
 class WebMonitor:
 	def get_handler_obj(self,module_name,class_name,alert_name,url):
@@ -51,6 +52,28 @@ class WebMonitor:
 	                handler_obj.run()
 
 	                handler_obj.log()
+
+			if(handler_obj.found_changes()):
+				self.send_alert(item,handler_obj)
+
+	def send_alert(self,item,handler_obj):
+
+			alert_receivers = item["receivers"]
+
+			notification_items = handler_obj.notification_items()
+
+			alert_notification_item = item["notification_item"]
+
+			notification_info = notification_items[alert_notification_item]
+				
+			rootlogger.info("Sending alert to receivers:"+str(notification_info))
+
+			for alert_receiver in alert_receivers:
+				receiver = notifications.receivers[alert_receiver]
+				
+				notifier.send_notification(receiver,item["description"],str(notification_info))
+
+				rootlogger.debug("Alert sent to receiver: "+str(receiver))
 
 def start_monitor():
 	rootlogger.info("Starting web_monitor")

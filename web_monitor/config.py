@@ -16,4 +16,14 @@ webmonitor_logging_options = copy.copy(logging_options)
 webmonitor_logging_options["stdout_level"] = logging.INFO
 webmonitor_logging_options["file_level"] = logging.DEBUG
 
-scheduler_interval = 600
+scheduler_interval = 20
+
+googleapi_dir = os.path.join("/userhome","googleapi")
+
+print googleapi_dir
+
+gmail_options = {
+	"secret_file" : os.path.join(googleapi_dir,"client_secret.json"),
+	"storage": os.path.join(googleapi_dir,"gmail.storage"),
+	"oauth_scope" : "https://www.googleapis.com/auth/gmail.compose",
+}
