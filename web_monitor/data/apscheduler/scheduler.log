@@ -748,3 +748,5 @@
 2014-12-07 13:17:07,529:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-07 13:17:27.524708+01:00 (in 19.995261 seconds)
 2014-12-07 13:17:27,528:DEBUG:apscheduler.scheduler:Looking for jobs to run
 2014-12-07 13:17:27,529:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-07 13:17:47.524708+01:00 (in 19.995614 seconds)
+2014-12-07 13:17:47,526:DEBUG:apscheduler.scheduler:Looking for jobs to run
+2014-12-07 13:17:47,527:DEBUG:apscheduler.scheduler:Next wakeup is due at 2014-12-07 13:18:07.524708+01:00 (in 19.997937 seconds)
