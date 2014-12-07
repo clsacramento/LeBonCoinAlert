@@ -20,8 +20,6 @@ scheduler_interval = 20
 
 googleapi_dir = os.path.join("/userhome","googleapi")
 
-print googleapi_dir
-
 gmail_options = {
 	"secret_file" : os.path.join(googleapi_dir,"client_secret.json"),
 	"storage": os.path.join(googleapi_dir,"gmail.storage"),

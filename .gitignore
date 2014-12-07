@@ -1,3 +1,5 @@
 
 web_monitor/notifications.py
 *.log
+
+*.log
