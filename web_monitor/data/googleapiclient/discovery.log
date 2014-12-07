@@ -20,3 +20,5 @@
 2014-12-07 12:27:33,423:INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/send?alt=json
 2014-12-07 12:29:30,300:INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
 2014-12-07 12:29:30,632:INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/send?alt=json
+2014-12-07 12:49:49,192:INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+2014-12-07 12:49:49,715:INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/send?alt=json

@@ -48,7 +48,7 @@ class DefaultHandler:
 		lines = []
 		for line in self.diff_list:
 			if line[0] == diff_sign:
-				lines.append(line.replace(diff_sign+" ",""))
+				lines.append(line.replace(diff_sign+" ","").strip("\n"))
 		return lines
 
 	def log(self):
