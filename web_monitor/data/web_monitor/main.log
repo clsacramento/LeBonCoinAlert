@@ -1,898 +1,706 @@
-2014-12-06 22:12:08,539:ERROR:web_monitor.main:start logging
-2014-12-06 22:23:22,282:DEBUG:web_monitor.main:start logging
-2014-12-06 22:23:22,282:DEBUG:web_monitor.main:read alerts
-2014-12-06 22:23:22,347:DEBUG:web_monitor.main:Alert name=lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 22:24:27,115:DEBUG:web_monitor.main:start logging
-2014-12-06 22:24:27,115:DEBUG:web_monitor.main:read alerts
-2014-12-06 22:24:27,189:DEBUG:web_monitor.main:Alert name=lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 22:31:57,073:DEBUG:web_monitor.main:start logging
-2014-12-06 22:31:57,073:DEBUG:web_monitor.main:read alerts
-2014-12-06 22:31:57,139:DEBUG:web_monitor.main:Alert name=lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 22:51:03,043:DEBUG:web_monitor.main:start logging
-2014-12-06 22:55:27,075:DEBUG:web_monitor.main:start logging
-2014-12-06 22:57:56,809:DEBUG:web_monitor.main:start logging
-2014-12-06 23:00:24,410:DEBUG:web_monitor.main:start logging
-2014-12-06 23:02:22,716:DEBUG:web_monitor.main:start logging
-2014-12-06 23:04:34,376:ERROR:web_monitor.main:test
-2014-12-06 23:04:44,375:ERROR:web_monitor.main:test
-2014-12-06 23:04:54,384:ERROR:web_monitor.main:test
-2014-12-06 23:11:15,977:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-06 23:13:12,854:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:13:12,855:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:13:12,914:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:14:12,842:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:14:12,842:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:14:12,843:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:15:12,846:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:15:12,846:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:15:12,847:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:16:12,853:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:16:12,853:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:16:12,854:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:17:12,848:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:17:12,848:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:17:12,849:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:18:12,844:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:18:12,844:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:18:12,845:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:19:12,843:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:19:12,844:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:19:12,844:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:20:12,847:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:20:12,847:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:20:12,848:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:21:12,847:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:21:12,847:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:21:12,848:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:21:35,889:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-06 23:22:41,737:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:22:41,737:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:22:41,798:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:23:41,738:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:23:41,739:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:23:41,739:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:23:54,053:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-06 23:24:55,506:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:24:55,506:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:24:55,537:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:25:01,506:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:25:01,506:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:25:01,507:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:25:07,506:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:25:07,506:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:25:07,507:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:25:13,507:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:25:13,507:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:25:13,508:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:25:19,506:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:25:19,507:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:25:19,507:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:25:20,027:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-06 23:36:33,247:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:36:33,248:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:36:33,321:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:46:33,245:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:46:33,246:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:46:33,246:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-06 23:56:33,249:INFO:web_monitor.main:Starting web_monitor
-2014-12-06 23:56:33,250:INFO:web_monitor.main:1 alerts configured.
-2014-12-06 23:56:33,250:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 00:06:33,248:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 00:06:33,248:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 00:06:33,248:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 00:16:33,246:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 00:16:33,246:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 00:16:33,246:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 00:26:33,245:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 00:26:33,245:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 00:26:33,245:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 00:36:33,252:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 00:36:33,253:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 00:36:33,253:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 00:46:33,260:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 00:46:33,260:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 00:46:33,262:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 00:56:33,256:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 00:56:33,256:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 00:56:33,257:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 01:06:33,249:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 01:06:33,250:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 01:06:33,250:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 01:16:33,256:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 01:16:33,257:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 01:16:33,258:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 01:26:33,253:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 01:26:33,254:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 01:26:33,254:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 01:36:33,247:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 01:36:33,248:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 01:36:33,248:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 01:46:33,249:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 01:46:33,249:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 01:46:33,249:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 01:56:33,249:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 01:56:33,249:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 01:56:33,249:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 02:06:33,251:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 02:06:33,251:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 02:06:33,251:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 02:16:33,244:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 02:16:33,244:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 02:16:33,245:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 02:26:33,260:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 02:26:33,261:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 02:26:33,261:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 02:36:33,244:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 02:36:33,244:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 02:36:33,244:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 02:46:33,247:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 02:46:33,247:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 02:46:33,247:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 02:56:33,252:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 02:56:33,253:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 02:56:33,253:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 03:06:33,253:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 03:06:33,253:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 03:06:33,253:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 03:16:33,244:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 03:16:33,244:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 03:16:33,244:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 03:26:33,247:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 03:26:33,248:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 03:26:33,248:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 03:36:33,249:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 03:36:33,250:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 03:36:33,250:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 03:46:33,251:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 03:46:33,251:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 03:46:33,251:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 03:56:33,245:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 03:56:33,245:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 03:56:33,246:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 04:06:33,249:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 04:06:33,249:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 04:06:33,249:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 04:16:33,248:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 04:16:33,249:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 04:16:33,249:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 04:26:33,256:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 04:26:33,257:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 04:26:33,257:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 04:36:33,251:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 04:36:33,251:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 04:36:33,252:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 04:46:33,247:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 04:46:33,247:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 04:46:33,247:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 04:56:33,248:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 04:56:33,248:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 04:56:33,249:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 05:06:33,244:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 05:06:33,244:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 05:06:33,245:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 05:16:33,243:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 05:16:33,243:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 05:16:33,243:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 05:26:33,253:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 05:26:33,253:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 05:26:33,253:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 05:36:33,245:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 05:36:33,245:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 05:36:33,246:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 05:46:33,247:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 05:46:33,247:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 05:46:33,247:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 05:56:33,243:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 05:56:33,243:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 05:56:33,243:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 06:06:33,244:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 06:06:33,244:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 06:06:33,245:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 06:16:33,244:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 06:16:33,245:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 06:16:33,245:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 06:26:33,251:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 06:26:33,251:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 06:26:33,251:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 06:36:33,251:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 06:36:33,251:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 06:36:33,251:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 06:46:33,252:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 06:46:33,253:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 06:46:33,253:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 06:56:33,244:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 06:56:33,245:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 06:56:33,245:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 07:06:33,243:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 07:06:33,243:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 07:06:33,244:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 07:16:33,247:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 07:16:33,247:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 07:16:33,248:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 07:26:33,248:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 07:26:33,249:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 07:26:33,249:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 07:36:33,250:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 07:36:33,251:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 07:36:33,251:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 07:46:33,247:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 07:46:33,248:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 07:46:33,248:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 07:56:33,243:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 07:56:33,244:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 07:56:33,244:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 08:06:33,244:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 08:06:33,244:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 08:06:33,245:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 08:16:33,252:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 08:16:33,252:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 08:16:33,253:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 08:26:33,252:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 08:26:33,253:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 08:26:33,253:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 08:36:33,245:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 08:36:33,245:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 08:36:33,245:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 08:46:33,253:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 08:46:33,253:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 08:46:33,253:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 08:56:33,251:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 08:56:33,251:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 08:56:33,251:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 09:06:33,249:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 09:06:33,249:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 09:06:33,249:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 09:16:33,249:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 09:16:33,250:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 09:16:33,250:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 09:26:33,252:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 09:26:33,253:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 09:26:33,253:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 09:36:33,252:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 09:36:33,253:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 09:36:33,253:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 09:46:33,246:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 09:46:33,247:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 09:46:33,247:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 09:56:33,247:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 09:56:33,248:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 09:56:33,248:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 10:06:33,252:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 10:06:33,253:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 10:06:33,253:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 10:16:33,245:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 10:16:33,246:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 10:16:33,246:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 10:26:33,256:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 10:26:33,256:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 10:26:33,257:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 10:36:33,254:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 10:36:33,255:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 10:36:33,256:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 10:46:33,243:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 10:46:33,243:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 10:46:33,243:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 10:56:33,247:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 10:56:33,247:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 10:56:33,247:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:06:33,245:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:06:33,245:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:06:33,245:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:10:40,144:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 11:12:14,052:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:12:14,053:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:12:14,108:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:13:14,042:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:13:14,043:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:13:14,043:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:14:14,044:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:14:14,044:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:14:14,045:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:15:14,045:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:15:14,045:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:15:14,046:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:16:14,047:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:16:14,047:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:16:14,047:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:17:14,044:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:17:14,045:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:17:14,045:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:18:14,049:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:18:14,050:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:18:14,050:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:19:14,053:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:19:14,053:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:19:14,053:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:20:14,043:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:20:14,044:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:20:14,044:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:21:14,045:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:21:14,046:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:21:14,046:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:22:14,054:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:22:14,055:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:22:14,055:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:23:14,042:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:23:14,042:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:23:14,043:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:24:14,046:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:24:14,046:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:24:14,047:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:24:26,277:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 11:27:16,135:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:27:16,135:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:27:16,197:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:28:16,134:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:28:16,135:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:28:16,135:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:29:16,133:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:29:16,133:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:29:16,133:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:30:16,136:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:30:16,136:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:30:16,137:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:31:05,157:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 11:32:07,375:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:32:07,376:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:32:07,402:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:32:29,094:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 11:35:33,397:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:35:33,397:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:35:33,428:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:35:47,664:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 11:39:25,345:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:39:25,345:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:39:25,372:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:39:43,080:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 11:41:04,574:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:41:04,575:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:41:04,604:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:41:36,322:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 11:44:09,544:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:44:09,544:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:44:09,589:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:44:11,255:INFO:web_monitor.main:send alert to receivers:[]
-2014-12-07 11:44:26,098:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 11:45:36,682:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:45:36,683:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:45:36,716:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:45:38,406:INFO:web_monitor.main:send alert to receivers:[]
-2014-12-07 11:45:56,798:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 11:47:23,993:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:47:23,994:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:47:24,022:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:47:25,472:INFO:web_monitor.main:send alert to receivers:[]
-2014-12-07 11:47:35,682:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 11:48:35,587:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:48:35,587:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:48:35,621:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:48:37,248:INFO:web_monitor.main:send alert to receivers:[]
-2014-12-07 11:48:41,952:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 11:49:45,308:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:49:45,308:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:49:45,341:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:49:46,958:INFO:web_monitor.main:send alert to receivers:[]
-2014-12-07 11:49:54,299:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 11:50:50,551:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:50:50,552:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:50:50,579:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:50:53,141:INFO:web_monitor.main:send alert to receivers:[]
-2014-12-07 11:51:10,550:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:51:10,550:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:51:10,551:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:51:12,835:INFO:web_monitor.main:send alert to receivers:[]
-2014-12-07 11:51:24,942:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 11:52:26,837:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:52:26,838:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:52:26,868:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:52:28,480:INFO:web_monitor.main:send alert to receivers:[]
-2014-12-07 11:52:36,079:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 11:53:44,377:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:53:44,377:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:53:44,407:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:53:46,728:INFO:web_monitor.main:send alert to receivers:[]
-2014-12-07 11:54:03,347:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 11:55:00,317:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:55:00,317:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:55:00,345:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:55:04,862:INFO:web_monitor.main:send alert to receivers:[]
-2014-12-07 11:55:05,936:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail', 'type': 'gmail_notify', 'name': 'clsacramento', 'to': 'cynthia.lopes-do-sacramento@ext.bull.net'}
-2014-12-07 11:55:20,315:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:55:20,315:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:55:20,316:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:55:22,254:INFO:web_monitor.main:send alert to receivers:[]
-2014-12-07 11:55:22,917:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail', 'type': 'gmail_notify', 'name': 'clsacramento', 'to': 'cynthia.lopes-do-sacramento@ext.bull.net'}
-2014-12-07 11:55:27,424:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 11:59:17,048:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:59:17,048:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:59:17,073:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:59:37,061:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:59:37,061:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:59:37,061:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 11:59:57,050:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 11:59:57,051:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 11:59:57,051:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:00:17,051:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:00:17,052:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:00:17,053:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:00:37,050:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:00:37,050:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:00:37,051:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:00:57,051:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:00:57,052:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:00:57,052:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:01:17,047:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:01:17,047:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:01:17,047:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:01:37,067:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:01:37,067:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:01:37,068:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:01:57,047:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:01:57,047:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:01:57,047:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:02:17,061:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:02:17,062:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:02:17,062:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:02:37,051:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:02:37,052:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:02:37,052:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:02:57,045:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:02:57,046:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:02:57,046:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:03:17,051:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:03:17,051:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:03:17,051:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:03:37,059:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:03:37,059:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:03:37,060:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:03:57,045:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:03:57,046:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:03:57,046:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:04:17,048:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:04:17,049:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:04:17,049:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:04:37,046:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:04:37,047:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:04:37,047:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:04:57,046:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:04:57,047:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:04:57,047:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:05:17,053:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:05:17,053:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:05:17,054:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:05:37,047:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:05:37,048:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:05:37,048:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:05:57,046:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:05:57,046:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:05:57,047:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:06:17,049:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:06:17,049:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:06:17,049:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:06:37,046:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:06:37,046:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:06:37,047:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:06:57,045:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:06:57,045:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:06:57,046:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:07:17,046:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:07:17,046:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:07:17,046:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:07:37,053:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:07:37,054:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:07:37,054:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:07:57,054:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:07:57,055:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:07:57,056:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:08:17,047:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:08:17,047:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:08:17,047:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:08:37,047:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:08:37,047:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:08:37,047:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:08:57,045:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:08:57,045:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:08:57,046:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:09:17,048:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:09:17,050:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:09:17,050:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:09:37,048:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:09:37,048:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:09:37,048:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:09:57,048:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:09:57,048:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:09:57,049:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:10:17,053:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:10:17,056:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:10:17,057:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:10:37,045:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:10:37,046:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:10:37,046:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:10:57,047:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:10:57,047:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:10:57,047:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:11:15,798:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 12:12:13,841:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:12:13,841:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:12:13,891:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:12:33,841:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:12:33,841:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:12:33,842:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:12:35,084:INFO:web_monitor.main:Sending alert to receivers:[]
-2014-12-07 12:12:36,057:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'me@gmail', 'type': 'gmail_notify', 'name': 'me', 'to': 'me@gmail'}
-2014-12-07 12:12:49,069:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 12:14:00,861:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:14:00,862:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:14:00,894:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:14:03,376:INFO:web_monitor.main:Sending alert to receivers:[]
-2014-12-07 12:14:04,028:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail', 'type': 'gmail_notify', 'name': 'me', 'to': 'clsacramento@gmail'}
-2014-12-07 12:14:20,863:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:14:20,864:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:14:20,864:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:14:22,179:INFO:web_monitor.main:Sending alert to receivers:[]
-2014-12-07 12:14:22,684:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail', 'type': 'gmail_notify', 'name': 'me', 'to': 'clsacramento@gmail'}
-2014-12-07 12:14:25,371:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 12:17:52,776:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:17:52,776:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:17:52,827:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:17:55,302:INFO:web_monitor.main:Sending alert to receivers:[]
-2014-12-07 12:17:56,304:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail', 'type': 'gmail_notify', 'name': 'me', 'to': 'clsacramento@gmail'}
-2014-12-07 12:18:12,775:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:18:12,775:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:18:12,776:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:18:14,358:INFO:web_monitor.main:Sending alert to receivers:[]
-2014-12-07 12:18:14,999:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail', 'type': 'gmail_notify', 'name': 'me', 'to': 'clsacramento@gmail'}
-2014-12-07 12:18:32,775:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:18:32,776:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:18:32,776:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:18:34,695:INFO:web_monitor.main:Sending alert to receivers:[]
-2014-12-07 12:18:35,467:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail', 'type': 'gmail_notify', 'name': 'me', 'to': 'clsacramento@gmail'}
-2014-12-07 12:18:45,419:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 12:24:32,789:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:24:32,790:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:24:32,830:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:24:34,190:INFO:web_monitor.main:Sending alert to receivers:[]
-2014-12-07 12:24:34,907:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail', 'type': 'gmail_notify', 'name': 'me', 'to': 'clsacramento@gmail'}
-2014-12-07 12:24:46,855:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 12:26:05,198:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:26:05,199:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:26:05,235:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:26:06,781:INFO:web_monitor.main:Sending alert to receivers:[]
-2014-12-07 12:26:07,400:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail', 'type': 'gmail_notify', 'name': 'me', 'to': 'clsacramento@gmail'}
-2014-12-07 12:26:25,196:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:26:25,196:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:26:25,197:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:26:26,599:INFO:web_monitor.main:Sending alert to receivers:[]
-2014-12-07 12:26:27,051:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail', 'type': 'gmail_notify', 'name': 'me', 'to': 'clsacramento@gmail'}
-2014-12-07 12:26:43,865:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 12:27:31,143:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:27:31,144:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:27:31,189:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:27:32,865:INFO:web_monitor.main:Sending alert to receivers:[]
-2014-12-07 12:27:33,749:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail.com', 'type': 'gmail_notify', 'name': 'me', 'to': 'clsacramento@gmail.com'}
-2014-12-07 12:27:40,119:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 12:29:28,935:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:29:28,935:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:29:28,966:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:29:30,298:INFO:web_monitor.main:Sending alert to receivers:[]
-2014-12-07 12:29:30,986:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail.com', 'type': 'gmail_notify', 'name': 'me', 'to': 'clsacramento@gmail.com'}
-2014-12-07 12:29:41,737:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 12:43:47,529:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:43:47,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:43:47,585:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:44:07,537:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:44:07,537:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:44:07,538:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:44:27,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:44:27,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:44:27,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:44:47,537:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:44:47,538:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:44:47,538:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:45:07,538:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:45:07,539:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:45:07,539:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:45:27,529:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:45:27,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:45:27,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:45:47,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:45:47,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:45:47,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:46:07,533:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:46:07,533:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:46:07,533:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:46:27,531:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:46:27,532:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:46:27,532:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:46:47,531:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:46:47,531:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:46:47,532:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:47:07,529:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:47:07,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:47:07,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:47:27,536:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:47:27,537:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:47:27,537:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:47:47,532:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:47:47,532:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:47:47,532:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:48:07,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:48:07,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:48:07,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:48:27,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:48:27,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:48:27,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:48:47,535:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:48:47,536:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:48:47,536:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:49:07,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:49:07,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:49:07,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:49:27,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:49:27,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:49:27,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:49:47,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:49:47,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:49:47,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:49:49,186:INFO:web_monitor.main:Sending alert to receivers:[" Aujourd'hui 12:25   3 Renault Twingo Meyzieu / Rhne 4 700 EUR http://www.leboncoin.fr/voitures/738064814.htm?ca=22_s\n"]
-2014-12-07 12:49:50,021:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail.com', 'type': 'gmail_notify', 'name': 'Cynthia', 'to': 'cynthia.lopes-do-sacramento@ext.bull.net'}
-2014-12-07 12:50:07,529:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:50:07,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:50:07,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:50:27,529:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:50:27,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:50:27,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:50:47,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:50:47,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:50:47,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:51:07,529:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:51:07,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:51:07,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:51:27,532:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:51:27,532:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:51:27,532:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:51:47,526:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:51:47,527:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:51:47,527:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:52:07,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:52:07,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:52:07,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:52:27,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:52:27,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:52:27,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:52:47,529:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:52:47,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:52:47,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:53:07,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:53:07,527:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:53:07,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:53:27,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:53:27,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:53:27,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:53:47,531:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:53:47,531:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:53:47,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:54:07,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:54:07,527:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:54:07,527:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:54:27,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:54:27,527:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:54:27,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:54:47,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:54:47,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:54:47,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:55:07,529:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:55:07,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:55:07,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:55:27,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:55:27,527:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:55:27,527:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:55:47,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:55:47,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:55:47,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:56:07,531:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:56:07,531:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:56:07,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:56:27,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:56:27,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:56:27,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:56:47,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:56:47,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:56:47,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:57:07,529:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:57:07,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:57:07,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:57:27,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:57:27,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:57:27,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:57:47,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:57:47,527:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:57:47,527:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:58:07,529:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:58:07,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:58:07,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:58:27,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:58:27,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:58:27,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:58:47,529:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:58:47,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:58:47,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:59:07,529:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:59:07,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:59:07,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:59:27,529:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:59:27,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:59:27,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 12:59:47,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 12:59:47,531:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 12:59:47,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:00:07,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:00:07,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:00:07,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:00:27,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:00:27,527:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:00:27,527:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:00:47,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:00:47,527:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:00:47,527:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:01:07,531:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:01:07,532:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:01:07,532:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:01:27,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:01:27,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:01:27,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:01:47,532:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:01:47,532:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:01:47,532:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:02:07,532:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:02:07,532:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:02:07,532:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:02:27,529:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:02:27,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:02:27,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:02:47,531:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:02:47,531:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:02:47,532:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:03:07,531:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:03:07,532:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:03:07,532:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:03:27,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:03:27,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:03:27,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:03:47,529:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:03:47,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:03:47,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:04:07,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:04:07,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:04:07,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:04:27,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:04:27,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:04:27,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:04:47,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:04:47,531:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:04:47,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:05:07,532:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:05:07,532:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:05:07,532:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:05:27,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:05:27,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:05:27,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:05:47,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:05:47,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:05:47,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:06:07,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:06:07,527:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:06:07,527:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:06:27,531:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:06:27,531:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:06:27,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:06:47,526:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:06:47,526:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:06:47,527:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:07:07,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:07:07,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:07:07,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:07:27,529:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:07:27,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:07:27,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:07:47,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:07:47,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:07:47,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:08:07,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:08:07,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:08:07,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:08:27,529:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:08:27,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:08:27,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:08:47,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:08:47,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:08:47,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:09:07,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:09:07,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:09:07,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:09:27,531:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:09:27,531:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:09:27,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:09:47,531:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:09:47,531:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:09:47,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:10:07,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:10:07,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:10:07,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:10:27,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:10:27,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:10:27,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:10:47,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:10:47,527:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:10:47,527:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:11:07,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:11:07,527:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:11:07,527:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:11:27,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:11:27,529:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:11:27,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:11:47,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:11:47,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:11:47,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:12:07,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:12:07,527:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:12:07,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:12:27,531:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:12:27,531:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:12:27,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:12:47,532:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:12:47,532:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:12:47,532:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:13:07,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:13:07,527:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:13:07,527:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:13:27,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:13:27,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:13:27,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:13:47,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:13:47,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:13:47,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:14:07,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:14:07,527:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:14:07,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:14:27,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:14:27,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:14:27,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:14:47,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:14:47,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:14:47,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:15:07,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:15:07,527:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:15:07,527:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:15:27,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:15:27,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:15:27,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:15:47,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:15:47,527:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:15:47,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:16:07,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:16:07,527:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:16:07,527:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:16:27,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:16:27,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:16:27,530:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:16:47,528:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:16:47,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:16:47,529:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:17:07,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:17:07,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:17:07,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:17:27,530:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:17:27,530:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:17:27,531:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:17:47,527:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:17:47,528:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:17:47,528:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:18:07,308:WARNING:web_monitor.main:Stopping web_monitor
-2014-12-07 13:18:52,601:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:18:52,601:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:18:52,651:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:19:12,601:INFO:web_monitor.main:Starting web_monitor
-2014-12-07 13:19:12,601:INFO:web_monitor.main:1 alerts configured.
-2014-12-07 13:19:12,602:DEBUG:web_monitor.main:Alert lbc-tout,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
-2014-12-07 13:19:26,158:WARNING:web_monitor.main:Stopping web_monitor
+2014-12-08 20:49:53,410:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 20:50:51,728:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 20:50:51,728:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 20:50:51,728:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 20:50:52,699:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 20:51:51,726:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 20:51:51,726:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 20:51:51,726:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 20:51:52,617:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 20:52:51,730:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 20:52:51,730:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 20:52:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 20:52:53,101:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 20:53:51,727:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 20:53:51,727:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 20:53:51,728:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 20:53:52,779:INFO:web_monitor.main:Sending alert to receivers:[" Aujourd'hui 20:35   5 C1 1.0 68CH airdream 68mkms an08 Tbeg 04CH 3ptes (pro) Bourg-en-Bresse / Ain 4 290 EUR http://www.leboncoin.fr/voitures/743584075.htm?ca=22_s"]
+2014-12-08 20:53:54,236:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail.com', 'type': 'gmail_notify', 'name': 'Cynthia', 'to': 'cynthia.lopes-do-sacramento@ext.bull.net'}
+2014-12-08 20:53:54,237:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 20:54:51,728:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 20:54:51,729:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 20:54:51,729:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 20:54:52,872:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 20:55:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 20:55:51,730:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 20:55:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 20:55:52,743:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 20:56:51,730:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 20:56:51,730:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 20:56:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 20:56:52,686:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 20:57:51,731:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 20:57:51,731:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 20:57:51,731:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 20:57:53,454:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 20:58:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 20:58:51,729:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 20:58:51,729:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 20:58:52,615:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 20:59:51,733:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 20:59:51,733:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 20:59:51,733:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 20:59:52,491:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:00:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:00:51,729:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:00:51,729:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:00:53,488:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:01:51,730:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:01:51,730:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:01:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:01:52,716:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:02:51,725:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:02:51,726:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:02:51,726:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:02:54,552:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:03:51,727:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:03:51,727:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:03:51,727:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:03:52,620:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:04:51,732:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:04:51,732:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:04:51,732:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:04:52,954:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:05:51,734:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:05:51,734:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:05:51,734:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:05:52,732:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:06:51,730:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:06:51,730:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:06:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:06:52,981:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:07:51,731:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:07:51,731:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:07:51,732:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:07:53,515:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:08:51,732:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:08:51,732:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:08:51,732:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:08:52,969:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:09:51,733:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:09:51,733:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:09:51,733:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:09:52,621:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:10:51,733:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:10:51,733:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:10:51,733:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:10:53,046:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:11:51,728:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:11:51,729:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:11:51,729:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:11:52,495:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:12:51,726:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:12:51,726:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:12:51,726:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:12:52,629:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:13:51,727:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:13:51,727:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:13:51,727:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:13:52,666:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:14:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:14:51,729:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:14:51,729:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:14:52,962:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:15:51,725:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:15:51,726:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:15:51,726:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:15:54,112:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:16:51,731:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:16:51,731:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:16:51,731:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:16:52,815:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:17:51,726:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:17:51,726:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:17:51,727:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:17:54,071:INFO:web_monitor.main:Sending alert to receivers:[" Aujourd'hui 21:02   5 Peugeot 206 1.1i 60 ch 34500 km 05/2010 (pro) Bourg-ls-Valence / Drme 4 450 EUR http://www.leboncoin.fr/voitures/743592323.htm?ca=22_s", " Aujourd'hui 21:00   5 DAIHATSU Sirion 1.0 i 69cv CL 12/10 91000KM 4000 (pro) Valence / Drme 4 000 EUR http://www.leboncoin.fr/voitures/728764505.htm?ca=22_s", " Aujourd'hui 20:59   3 107 black and silver Vtraz-Monthoux / Haute-Savoie 5 700 EUR http://www.leboncoin.fr/voitures/743591128.htm?ca=22_s", " Aujourd'hui 20:53   3 Smart FORTWO edition PASSION Villefranche-sur-Sane / Rhne 4 800 EUR http://www.leboncoin.fr/voitures/743589540.htm?ca=22_s"]
+2014-12-08 21:17:54,798:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail.com', 'type': 'gmail_notify', 'name': 'Cynthia', 'to': 'cynthia.lopes-do-sacramento@ext.bull.net'}
+2014-12-08 21:17:54,798:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:17:58,293:INFO:web_monitor.main:Sending alert to receivers:[" Aujourd'hui 21:02   3 2P+C Eaux Claires Grenoble / Isre 450 EUR http://www.leboncoin.fr/locations/743592231.htm?ca=22_s"]
+2014-12-08 21:17:58,764:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail.com', 'type': 'gmail_notify', 'name': 'Cynthia', 'to': 'cynthia.lopes-do-sacramento@ext.bull.net'}
+2014-12-08 21:18:51,727:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:18:51,727:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:18:51,727:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:18:52,709:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:19:51,724:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:19:51,725:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:19:51,725:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:21:00,638:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:21:51,727:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:21:51,727:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:21:51,727:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:21:52,627:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:22:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:22:51,729:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:22:51,729:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:22:54,899:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:23:51,733:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:23:51,733:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:23:51,733:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:23:53,740:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:24:51,731:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:24:51,732:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:24:51,732:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:24:52,856:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:25:51,733:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:25:51,733:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:25:51,733:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:25:52,944:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:26:51,734:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:26:51,734:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:26:51,734:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:28:16,565:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:28:51,726:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:28:51,726:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:28:51,726:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:28:52,659:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:29:51,731:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:29:51,731:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:29:51,732:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:29:52,723:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:29:55,413:INFO:web_monitor.main:Sending alert to receivers:[" Aujourd'hui 21:14   2 T2 grenoble Grenoble / Isre 599 EUR http://www.leboncoin.fr/locations/743597988.htm?ca=22_s"]
+2014-12-08 21:29:57,540:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail.com', 'type': 'gmail_notify', 'name': 'Cynthia', 'to': 'cynthia.lopes-do-sacramento@ext.bull.net'}
+2014-12-08 21:30:51,732:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:30:51,732:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:30:51,732:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:30:52,729:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:31:51,730:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:31:51,730:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:31:51,731:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:31:52,973:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:32:51,732:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:32:51,732:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:32:51,732:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:32:52,636:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:33:51,725:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:33:51,725:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:33:51,725:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:33:52,992:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:34:51,727:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:34:51,728:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:34:51,728:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:34:53,735:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:35:51,734:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:35:51,734:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:35:51,734:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:35:53,067:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:36:51,728:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:36:51,728:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:36:51,728:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:36:52,982:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:37:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:37:51,730:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:37:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:37:52,955:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:38:51,725:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:38:51,725:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:38:51,726:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:38:52,586:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:39:51,731:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:39:51,732:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:39:51,732:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:39:53,415:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:40:51,725:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:40:51,725:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:40:51,726:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:40:53,475:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:41:51,727:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:41:51,728:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:41:51,728:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:43:00,077:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:43:51,734:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:43:51,734:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:43:51,734:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:43:53,103:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:44:51,727:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:44:51,728:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:44:51,728:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:44:52,692:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:45:51,730:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:45:51,730:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:45:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:45:53,259:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:46:51,734:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:46:51,734:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:46:51,735:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:46:52,590:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:47:51,733:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:47:51,733:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:47:51,734:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:47:52,703:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:48:51,734:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:48:51,735:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:48:51,735:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:48:52,649:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:49:51,725:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:49:51,725:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:49:51,726:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:49:53,182:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:50:51,733:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:50:51,733:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:50:51,733:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:51:33,230:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:51:51,728:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:51:51,728:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:51:51,728:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:51:53,098:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:52:51,727:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:52:51,727:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:52:51,727:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:52:52,615:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:53:51,732:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:53:51,732:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:53:51,732:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:53:54,435:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:54:51,731:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:54:51,731:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:54:51,731:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:54:52,659:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:55:51,735:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:55:51,735:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:55:51,735:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:55:52,927:INFO:web_monitor.main:Sending alert to receivers:[" Aujourd'hui 21:40   3 Citroen. C4 coupe.Essence Bourgoin-Jallieu / Isre 3 500 EUR http://www.leboncoin.fr/voitures/743610786.htm?ca=22_s"]
+2014-12-08 21:55:54,133:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail.com', 'type': 'gmail_notify', 'name': 'Cynthia', 'to': 'cynthia.lopes-do-sacramento@ext.bull.net'}
+2014-12-08 21:55:54,133:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:56:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:56:51,729:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:56:51,729:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:56:52,641:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:57:51,731:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:57:51,731:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:57:51,732:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:57:54,221:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:58:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:58:51,729:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:58:51,729:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:58:53,036:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 21:59:51,731:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 21:59:51,731:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 21:59:51,731:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 21:59:52,673:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:00:51,730:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:00:51,730:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:00:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:00:52,664:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:01:51,734:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:01:51,734:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:01:51,734:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:01:52,549:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:02:51,735:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:02:51,735:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:02:51,736:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:02:52,604:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:03:51,734:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:03:51,734:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:03:51,735:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:03:52,802:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:04:51,732:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:04:51,732:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:04:51,733:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:04:52,695:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:05:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:05:51,730:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:05:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:05:52,650:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:06:51,731:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:06:51,731:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:06:51,732:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:06:52,588:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:07:51,734:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:07:51,735:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:07:51,735:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:07:52,757:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:07:55,357:INFO:web_monitor.main:Sending alert to receivers:[" Aujourd'hui 21:50   3 Studio Meuble Duplex Grenoble / Isre 580 EUR http://www.leboncoin.fr/locations/743615795.htm?ca=22_s"]
+2014-12-08 22:07:56,673:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail.com', 'type': 'gmail_notify', 'name': 'Cynthia', 'to': 'cynthia.lopes-do-sacramento@ext.bull.net'}
+2014-12-08 22:08:51,735:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:08:51,735:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:08:51,735:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:08:53,085:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:09:51,725:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:09:51,726:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:09:51,726:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:09:52,779:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:10:51,731:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:10:51,731:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:10:51,731:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:10:52,554:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:11:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:11:51,729:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:11:51,729:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:11:53,525:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:12:51,727:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:12:51,727:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:12:51,727:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:12:52,996:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:13:51,734:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:13:51,735:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:13:51,735:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:13:52,552:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:14:51,735:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:14:51,735:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:14:51,735:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:14:52,602:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:15:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:15:51,729:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:15:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:15:52,626:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:16:51,726:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:16:51,726:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:16:51,726:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:16:53,206:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:17:51,726:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:17:51,726:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:17:51,727:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:17:52,997:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:18:51,728:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:18:51,728:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:18:51,728:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:18:53,783:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:19:51,724:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:19:51,725:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:19:51,725:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:19:54,417:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:20:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:20:51,729:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:20:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:20:52,638:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:21:51,726:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:21:51,726:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:21:51,727:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:21:53,480:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:22:51,730:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:22:51,730:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:22:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:22:53,055:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:23:51,725:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:23:51,725:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:23:51,726:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:23:52,658:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:24:51,727:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:24:51,727:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:24:51,727:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:24:52,705:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:25:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:25:51,729:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:25:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:25:52,835:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:26:51,728:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:26:51,728:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:26:51,728:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:26:52,812:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:27:51,724:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:27:51,724:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:27:51,725:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:27:52,715:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:28:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:28:51,730:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:28:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:28:52,583:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 22:29:51,731:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 22:29:51,731:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 22:29:51,732:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 22:29:52,699:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 23:50:51,726:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 23:50:51,726:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 23:50:51,726:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 23:50:52,705:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 23:50:55,711:INFO:web_monitor.main:Sending alert to receivers:[" Aujourd'hui 22:09   3 T2 renove, 41 m2, Rue Abbe Gregoire Grenoble / Isre 585 EUR http://www.leboncoin.fr/locations/743623598.htm?ca=22_s"]
+2014-12-08 23:50:57,939:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail.com', 'type': 'gmail_notify', 'name': 'Cynthia', 'to': 'cynthia.lopes-do-sacramento@ext.bull.net'}
+2014-12-08 23:51:51,725:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 23:51:51,726:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 23:51:51,726:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 23:53:00,252:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 23:53:51,725:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 23:53:51,725:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 23:53:51,726:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 23:53:52,626:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 23:54:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 23:54:51,730:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 23:54:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 23:55:59,697:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 23:56:51,726:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 23:56:51,726:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 23:56:51,726:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 23:56:52,705:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 23:57:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 23:57:51,729:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 23:57:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 23:58:51,731:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 23:58:51,731:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 23:58:51,731:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 23:59:01,266:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-08 23:59:51,731:INFO:web_monitor.main:Starting web_monitor
+2014-12-08 23:59:51,732:INFO:web_monitor.main:2 alerts configured.
+2014-12-08 23:59:51,732:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-08 23:59:52,602:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:00:51,727:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:00:51,727:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:00:51,727:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:00:52,744:INFO:web_monitor.main:Sending alert to receivers:[' Hier 21:40   3 Citroen. C4 coupe.Essence Bourgoin-Jallieu / Isre 3 500 EUR http://www.leboncoin.fr/voitures/743610786.htm?ca=22_s', ' Hier 21:02   5 Peugeot 206 1.1i 60 ch 34500 km 05/2010 (pro) Bourg-ls-Valence / Drme 4 450 EUR http://www.leboncoin.fr/voitures/743592323.htm?ca=22_s', ' Hier 21:00   5 DAIHATSU Sirion 1.0 i 69cv CL 12/10 91000KM 4000 (pro) Valence / Drme 4 000 EUR http://www.leboncoin.fr/voitures/728764505.htm?ca=22_s', ' Hier 20:59   3 107 black and silver Vtraz-Monthoux / Haute-Savoie 5 700 EUR http://www.leboncoin.fr/voitures/743591128.htm?ca=22_s', ' Hier 20:53   3 Smart FORTWO edition PASSION Villefranche-sur-Sane / Rhne 4 800 EUR http://www.leboncoin.fr/voitures/743589540.htm?ca=22_s', ' Hier 20:35   5 C1 1.0 68CH airdream 68mkms an08 Tbeg 04CH 3ptes (pro) Bourg-en-Bresse / Ain 4 290 EUR http://www.leboncoin.fr/voitures/743584075.htm?ca=22_s', ' Hier 20:11   4 Renault clio estate 1.2 tce 100cv tomtom (pro) Loire 5 490 EUR http://www.leboncoin.fr/voitures/743574465.htm?ca=22_s', ' Hier 19:45   3 Opel Corsa 1.2 85cv 111 edition 3 portes Publier / Haute-Savoie 4 950 EUR http://www.leboncoin.fr/voitures/743561252.htm?ca=22_s', ' Hier 19:42   2 Opel meriva Bernex / Haute-Savoie 5 700 EUR http://www.leboncoin.fr/voitures/743559645.htm?ca=22_s', ' Hier 19:34   5 Dacia Logan (pro) Le Coteau / Loire 4 350 EUR http://www.leboncoin.fr/voitures/725275043.htm?ca=22_s', ' Hier 19:30   3 Peugeot 206URBAN 1 .1L 3 Portes Sourcieux-les-Mines / Rhne 5 800 EUR http://www.leboncoin.fr/voitures/743554358.htm?ca=22_s', ' Hier 18:59   5 Renault twingo 2 1.2 16v 2008 89000km 4500 euros (pro) Saint-Marcel-ls-Valence / Drme 4 500 EUR http://www.leboncoin.fr/voitures/742187670.htm?ca=22_s', ' Hier 18:54   3 Lancia ypsilon 4ch essence 2010 Cognin / Savoie 5 800 EUR http://www.leboncoin.fr/voitures/720449220.htm?ca=22_s', ' Hier 18:37   9 Citroen C1 Airdream Confort. Prix a debattre Lyon 7eme / Rhne 4 900 EUR http://www.leboncoin.fr/voitures/739446101.htm?ca=22_s', ' Hier 18:35   5 Peugeot 207 (pro) Pronnas / Ain 4 490 EUR http://www.leboncoin.fr/voitures/743523466.htm?ca=22_s', ' Hier 18:32   2 Peugeot 207 Albertville / Savoie 6 500 EUR http://www.leboncoin.fr/voitures/743522202.htm?ca=22_s', ' Hier 18:31   5 Peugeot 407 1.8 confort pack Lyon 6eme / Rhne 4 850 EUR http://www.leboncoin.fr/voitures/743521577.htm?ca=22_s', ' Hier 18:20   5 Citroen c1 1.0 i airplay (pro) Brignais / Rhne 5 990 EUR http://www.leboncoin.fr/voitures/743515242.htm?ca=22_s', ' Hier 18:13   Clio 2 campus Marin / Haute-Savoie 6 400 EUR http://www.leboncoin.fr/voitures/743511483.htm?ca=22_s', ' Hier 17:44   2 AYGO SPORT 5p. FAIBLE KM Lyon 6eme / Rhne 4 900 EUR http://www.leboncoin.fr/voitures/740702869.htm?ca=22_s', ' Hier 17:42   3 Peugeot 207 1.4L Urban 2009 Cran-Gevrier / Haute-Savoie 5 500 EUR http://www.leboncoin.fr/voitures/736979447.htm?ca=22_s', ' Hier 17:34   2 Ford Ka Titanium S&S 2012 Villeurbanne / Rhne 6 500 EUR http://www.leboncoin.fr/voitures/743491284.htm?ca=22_s', ' Hier 17:19   3 Dacia Sillingy / Haute-Savoie 5 500 EUR http://www.leboncoin.fr/voitures/743483851.htm?ca=22_s', ' Hier 17:14   3 Twingo 2 - 17 000 km Lyon 5eme / Rhne 5 300 EUR http://www.leboncoin.fr/voitures/743481365.htm?ca=22_s', ' Hier 17:09   3 FIAT PANDA 1,2 L essence Saint-Marcel-ls-Valence / Drme 4 300 EUR http://www.leboncoin.fr/voitures/743478758.htm?ca=22_s', ' Hier 17:02   3 Chevrolet AVEO 1,2 16V LS GPLi 5 portes 2010 clim Serpaize / Isre 4 200 EUR http://www.leboncoin.fr/voitures/740517673.htm?ca=22_s', ' Hier 16:54   5 Twingo 1.2 lev 16v authentique (pro) Veauche / Loire 5 200 EUR http://www.leboncoin.fr/voitures/725526696.htm?ca=22_s', ' Hier 16:35   3 Opel astra gtc Aubenas / Ardche 6 000 EUR http://www.leboncoin.fr/voitures/743462919.htm?ca=22_s', ' Hier 16:02   3 Pixo Allevard / Isre 5 000 EUR http://www.leboncoin.fr/voitures/743448277.htm?ca=22_s', ' Hier 15:58   3 Seat ibiza 1.2l 2011 60000 km Valence / Drme 5 490 EUR http://www.leboncoin.fr/voitures/743445703.htm?ca=22_s', ' Hier 15:51   5 Ford Ka 1.2 Trend(pro) Saint-Etienne / Loire 5 290 EUR http://www.leboncoin.fr/voitures/719453946.htm?ca=22_s', ' Hier 15:43   3 206 XBOX 1.4e 75ch Annecy / Haute-Savoie 3 950 EUR http://www.leboncoin.fr/voitures/743436449.htm?ca=22_s', ' Hier 15:34   3 Aygo 1.0 VVT-I - 5P - 2008 Bron / Rhne 3 800 EUR http://www.leboncoin.fr/voitures/743431663.htm?ca=22_s', ' Hier 15:31   3 Kia picanto Rochefort / Savoie 6 500 EUR  Urgent http://www.leboncoin.fr/voitures/743430281.htm?ca=22_s', ' Hier 15:22   5 Volkswagen fox (pro) Chazey-Bons / Ain 3 800 EUR http://www.leboncoin.fr/voitures/728760943.htm?ca=22_s']
+2014-12-09 00:00:53,720:DEBUG:web_monitor.main:Alert sent to receiver: {'from': 'clsacramento@gmail.com', 'type': 'gmail_notify', 'name': 'Cynthia', 'to': 'cynthia.lopes-do-sacramento@ext.bull.net'}
+2014-12-09 00:00:53,720:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:01:11,690:INFO:web_monitor.main:Sending alert to receivers:[' Hier 22:09   3 T2 renove, 41 m2, Rue Abbe Gregoire Grenoble / Isre 585 EUR http://www.leboncoin.fr/locations/743623598.htm?ca=22_s', ' Hier 21:50   3 Studio Meuble Duplex Grenoble / Isre 580 EUR http://www.leboncoin.fr/locations/743615795.htm?ca=22_s', ' Hier 21:14   2 T2 grenoble Grenoble / Isre 599 EUR http://www.leboncoin.fr/locations/743597988.htm?ca=22_s', ' Hier 21:02   3 2P+C Eaux Claires Grenoble / Isre 450 EUR http://www.leboncoin.fr/locations/743592231.htm?ca=22_s', ' Hier 19:18   3 GRENOBLE BEAU T2 renove 68 m2 Grenoble / Isre 598 EUR http://www.leboncoin.fr/locations/743547892.htm?ca=22_s', ' Hier 18:40   3 Location appartement Grenoble centre Grenoble / Isre 570 EUR http://www.leboncoin.fr/locations/743526523.htm?ca=22_s', ' Hier 18:28   3 T2 cours Berriat Grenoble / Isre 600 EUR http://www.leboncoin.fr/locations/740946642.htm?ca=22_s', ' Hier 16:27   5 T2 Meuble Grenoble (pro) Grenoble / Isre 500 EUR http://www.leboncoin.fr/locations/702132467.htm?ca=22_s', ' Hier 15:30   3 Loue F2 Grenoble quartier Vigny Musset Grenoble / Isre 640 EUR  Urgent http://www.leboncoin.fr/locations/742919776.htm?ca=22_s', ' Hier 12:32   9 Appartement 3 pieces 63 m2 (pro) Grenoble / Isre 564 EUR http://www.leboncoin.fr/locations/743428612.htm?ca=22_s', ' Hier 12:29   3 Loue appartement T2 Grenoble / Isre 550 EUR http://www.leboncoin.fr/locations/738972331.htm?ca=22_s', ' Hier 12:05   3 T1 Bis 40 m2 Grenoble Ile verte a louer Grenoble / Isre 500 EUR http://www.leboncoin.fr/locations/711485389.htm?ca=22_s', ' Hier 11:42   3 T1 BIS a louer Grenoble / Isre 500 EUR http://www.leboncoin.fr/locations/743328901.htm?ca=22_s', ' Hier 11:11   5 2P+C - 50m2 - DERNIER ETAGE - balcon,cave,veranda (pro) Grenoble / Isre 543 EUR http://www.leboncoin.fr/locations/715698046.htm?ca=22_s', ' Hier 10:43   3 Au 6/02/15 F2 meuble equipe Grenoble BAJATIERE Grenoble / Isre 610 EUR http://www.leboncoin.fr/locations/743303240.htm?ca=22_s', ' Hier 10:10   3 T2 quartier clinique mutualiste Grenoble / Isre 550 EUR http://www.leboncoin.fr/locations/743288118.htm?ca=22_s', ' Hier 10:07   3 Appartement F1+alcove - Rue Condorcet Grenoble Grenoble / Isre 520 EUR http://www.leboncoin.fr/locations/743286645.htm?ca=22_s', ' Hier 09:33   2 Logement T2 Grenoble / Isre 580 EUR http://www.leboncoin.fr/locations/727314091.htm?ca=22_s', ' Hier 09:13   5 Appartement 2 pieces 49 m2 (pro) Grenoble / Isre 570 EUR http://www.leboncoin.fr/locations/743428571.htm?ca=22_s', ' Hier 08:14   3 F2 balcon tb vue neuf grenoble prox campus tram Grenoble / Isre 590 EUR http://www.leboncoin.fr/locations/730352642.htm?ca=22_s', ' Hier 08:12   5 Appartement 2 pieces 43m2 (pro) Grenoble / Isre 536 EUR http://www.leboncoin.fr/locations/743477221.htm?ca=22_s', ' 7 dc 22:55   3 Appartement Duplex T3 60m2 bvd Foch/Liberation Grenoble / Isre 650 EUR http://www.leboncoin.fr/locations/743215994.htm?ca=22_s', ' 7 dc 21:14   3 URGENT F2 54m2 Grenoble Grenoble / Isre 650 EUR http://www.leboncoin.fr/locations/743167020.htm?ca=22_s', ' 7 dc 21:00   3 T2 47 m2 - Excellent etat -Palais des sports Grenoble / Isre 595 EUR http://www.leboncoin.fr/locations/743159172.htm?ca=22_s', ' 7 dc 20:25   3 T2 Grenoble Centre ville Grenoble / Isre 620 EUR http://www.leboncoin.fr/locations/740131673.htm?ca=22_s', ' 7 dc 19:26   3 T3 en duplex a Fures (Tullins) 38210 Grenoble / Isre 550 EUR http://www.leboncoin.fr/locations/701971178.htm?ca=22_s', ' 7 dc 18:25   3 F1 bis rue gabriel peri grenoble Grenoble / Isre 540 EUR http://www.leboncoin.fr/locations/743063364.htm?ca=22_s', ' 7 dc 16:10   3 F1 meuble Grenoble / Isre 560 EUR http://www.leboncoin.fr/locations/742971484.htm?ca=22_s', ' 7 dc 15:34   3 Appartement lumineux 57 m2 terrasse et parking Grenoble / Isre 600 EUR http://www.leboncoin.fr/locations/742946609.htm?ca=22_s', ' 7 dc 12:37   5 Appartement 2 pieces 43m2 (pro) Grenoble / Isre 482 EUR http://www.leboncoin.fr/locations/743244698.htm?ca=22_s', ' 7 dc 10:28   3 Grenoble Ile Verte F2 avec jardin Grenoble / Isre 650 EUR http://www.leboncoin.fr/locations/742790858.htm?ca=22_s', ' 7 dc 10:21   10 Appartement t2 vue montagne soleil Grenoble / Isre 600 EUR http://www.leboncoin.fr/locations/720247148.htm?ca=22_s']
+2014-12-09 00:02:51,735:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:02:51,735:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:02:51,735:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:02:52,710:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:03:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:03:51,729:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:03:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:05:18,180:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:05:51,735:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:05:51,735:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:05:51,735:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:05:52,651:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:06:51,731:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:06:51,731:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:06:51,731:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:08:25,613:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:08:51,734:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:08:51,734:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:08:51,734:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:08:52,654:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:09:51,731:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:09:51,731:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:09:51,731:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:09:53,251:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:10:51,730:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:10:51,730:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:10:51,730:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:10:52,952:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:11:51,725:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:11:51,725:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:11:51,725:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:11:52,598:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:12:51,734:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:12:51,735:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:12:51,735:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:12:52,530:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:13:51,728:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:13:51,728:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:13:51,728:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:13:52,543:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:14:51,735:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:14:51,735:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:14:51,735:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:14:52,548:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:15:51,731:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:15:51,732:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:15:51,732:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:15:52,562:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:16:51,724:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:16:51,725:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:16:51,725:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:16:52,648:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:17:51,730:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:17:51,730:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:17:51,731:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:17:53,166:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:18:51,734:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:18:51,734:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:18:51,734:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:18:52,570:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:19:51,726:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:19:51,727:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:19:51,727:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:19:52,642:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:20:51,735:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:20:51,736:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:20:51,736:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:20:52,599:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:21:51,728:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:21:51,728:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:21:51,728:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:21:52,944:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:22:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:22:51,729:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:22:51,729:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:22:52,569:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:23:51,725:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:23:51,725:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:23:51,725:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:23:53,296:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:24:51,725:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:24:51,725:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:24:51,726:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:24:52,737:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:25:51,726:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:25:51,726:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:25:51,726:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:25:52,605:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:26:51,729:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:26:51,729:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:26:51,729:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:26:53,153:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:27:51,736:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:27:51,736:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:27:51,737:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:27:52,631:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:28:51,725:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:28:51,725:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:28:51,725:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:28:53,555:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:29:51,728:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:29:51,729:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:29:51,729:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:33:37,033:WARNING:web_monitor.main:Stopping web_monitor
+2014-12-09 00:39:10,414:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:39:10,415:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:39:10,466:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:39:12,600:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:40:10,417:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:40:10,417:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:40:10,417:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:40:12,428:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:41:10,416:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:41:10,417:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:41:10,417:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:41:11,652:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:42:10,419:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:42:10,419:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:42:10,420:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:42:11,246:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:43:10,415:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:43:10,415:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:43:10,415:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:43:14,789:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:44:10,414:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:44:10,414:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:44:10,414:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:44:11,351:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:45:10,419:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:45:10,419:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:45:10,420:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:45:11,330:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:46:10,418:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:46:10,418:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:46:10,419:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:46:11,611:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:47:10,415:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:47:10,416:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:47:10,416:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:47:11,851:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:48:10,416:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:48:10,416:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:48:10,417:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:48:11,409:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:49:10,419:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:49:10,419:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:49:10,419:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:49:11,525:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:50:10,416:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:50:10,416:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:50:10,416:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:50:11,140:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:51:10,415:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:51:10,415:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:51:10,415:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:51:11,429:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:52:10,418:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:52:10,418:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:52:10,418:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:52:11,245:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:53:10,415:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:53:10,415:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:53:10,415:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:53:11,224:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:54:10,416:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:54:10,416:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:54:10,417:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:54:11,284:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:55:10,418:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:55:10,418:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:55:10,418:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:55:11,253:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:56:10,415:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:56:10,415:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:56:10,415:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:56:11,233:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:57:10,417:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:57:10,417:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:57:10,418:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:57:11,257:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:58:10,413:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:58:10,413:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:58:10,414:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:58:11,293:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 00:59:10,423:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 00:59:10,423:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 00:59:10,424:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 00:59:11,233:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 01:00:10,419:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:00:10,419:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:00:10,419:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:00:14,164:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 01:01:10,415:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:01:10,415:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:01:10,415:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:01:11,245:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 01:02:10,419:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:02:10,419:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:02:10,419:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:02:12,532:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 01:03:10,419:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:03:10,419:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:03:10,420:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:03:11,238:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 01:04:10,415:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:04:10,415:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:04:10,415:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:04:11,316:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 01:05:10,423:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:05:10,424:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:05:10,424:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:05:12,065:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 01:06:10,421:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:06:10,421:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:06:10,421:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:06:14,035:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 01:07:10,416:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:07:10,416:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:07:10,416:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:07:12,360:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 01:08:10,413:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:08:10,414:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:08:10,414:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:08:11,294:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 01:09:10,422:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:09:10,422:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:09:10,422:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:11:10,414:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:11:10,414:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:11:10,414:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:11:29,863:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 01:12:10,419:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:12:10,419:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:12:10,419:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:14:10,413:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:14:10,413:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:14:10,414:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:14:23,778:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 01:15:10,423:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:15:10,424:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:15:10,424:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:15:11,317:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 01:16:10,419:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:16:10,419:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:16:10,419:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:16:14,185:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 01:17:10,415:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:17:10,415:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:17:10,416:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:17:14,030:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 01:18:10,423:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:18:10,423:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:18:10,423:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:18:11,150:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 01:19:10,417:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:19:10,417:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:19:10,417:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:20:10,416:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:20:10,416:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:20:10,416:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:20:11,441:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100
+2014-12-09 01:21:10,413:INFO:web_monitor.main:Starting web_monitor
+2014-12-09 01:21:10,413:INFO:web_monitor.main:2 alerts configured.
+2014-12-09 01:21:10,414:DEBUG:web_monitor.main:Alert lbc-voitures,handler=lbc_handler,url=http://www.leboncoin.fr/voitures/offres/rhone_alpes/?f=a&th=1&ps=9&pe=15&rs=2008&fu=1
+2014-12-09 01:21:11,864:DEBUG:web_monitor.main:Alert lbc-apparts,handler=lbc_handler,url=http://www.leboncoin.fr/locations/offres/rhone_alpes/isere/?f=a&th=1&mrs=400&mre=650&sqs=5&roe=3&ret=2&location=Grenoble%2038000%2CGrenoble%2038100

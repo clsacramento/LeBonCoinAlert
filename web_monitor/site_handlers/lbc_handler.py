@@ -49,7 +49,7 @@ class LeBonCoinHandler(DefaultHandler):
 			#Fix: might advertise an old ad as new if a recent one is deleted.
                 	print str(len(self.added_lines))+" new ad(s)."
 		        self.logger.info(str(len(self.added_lines))+" new ad(s).")
-			self.logger.debug(str(self.added_lines))
+			self.logger.info(str(self.added_lines))
                 else:
 			self.logger.debug("Nothing new.")
 
