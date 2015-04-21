@@ -28,7 +28,7 @@ class HttpRequest:
 			c.setopt(c.POSTFIELDS, self.args)
 
                 c.setopt(c.URL, url)
-                c.setopt(c.WRITEDATA, buffer)
+                c.setopt(c.WRITEFUNCTION, buffer.write)
                 c.perform()
 
 		self.response_code = c.getinfo(c.RESPONSE_CODE)
